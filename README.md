@@ -1,6 +1,5 @@
 # Dimensionality-reduction
 
-# NeuralNetworks
 This Python code is used for predicting car prices. For more detailed documentation, please click on dokumentacia.pdf.
 ## Terms of Use
 
